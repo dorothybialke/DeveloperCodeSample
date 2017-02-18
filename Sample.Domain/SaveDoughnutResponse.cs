@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sample.Domain
+{
+    public class SaveDoughnutResponse : Response
+    {
+        public Doughnut SaveDoughnut { get; set; }
+        
+    }
+}

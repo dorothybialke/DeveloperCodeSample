@@ -1,0 +1,10 @@
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\Sample.Models.dll.config
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\Sample.Models.dll
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\Sample.Models.pdb
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\EntityFramework.dll
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\EntityFramework.xml
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\obj\Debug\Sample.Models.csprojResolveAssemblyReference.cache
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\obj\Debug\Sample.Models.dll
+C:\Users\dorot\OneDrive\Documents\AAN\DeveloperCodeSample\SampleMvcApp\Sample.Models\obj\Debug\Sample.Models.pdb
